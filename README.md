@@ -1,15 +1,15 @@
-## Hello 👋
+## Hello 👋  
 
-Discord: @sq3c 🎮
+Discord: @sq3c 🎮  
 YouTube: @sqec 📱
-
+  
 Languages:
-- English 🇬🇧
-- Mandarin 🇨🇳
-Learning:
-- German 🇩🇪
-
-
-
-
+- English 🇬🇧  
+- Mandarin 🇨🇳  
+Learning:  
+- German 🇩🇪  
+  
+  
+  
+  
 JS good
