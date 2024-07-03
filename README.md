@@ -6,6 +6,7 @@ YouTube: @sqec 📱
 Languages:
 - English 🇬🇧  
 - Mandarin 🇨🇳
+
 Learning:  
 - German 🇩🇪  
   
