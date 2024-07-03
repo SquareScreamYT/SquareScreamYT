@@ -4,11 +4,13 @@ Discord: @sq3c 🎮
 YouTube: @sqec 📱
   
 Languages:
-- English 🇬🇧  
-- Mandarin 🇨🇳
+- English   
+- Mandarin  
+- Toki Pona  
 
 Learning:  
-- German 🇩🇪  
+- German
+- Viossa
   
   
   
