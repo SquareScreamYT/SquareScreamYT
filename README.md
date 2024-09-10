@@ -2,9 +2,9 @@
 
 subscribe to my [channel](https://www.youtube.com/sqec)  
 
-discord: @sqec
+discord: @sq3c
 
-speak: english, chinese, toki pona, german, viossa
+can speak: english, chinese, toki pona, german, viossa
 
 stats:
 
